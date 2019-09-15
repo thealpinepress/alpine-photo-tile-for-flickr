@@ -7,11 +7,12 @@
 * License: GPLv3 or later
 * License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Stylish and compact plugin for displaying Flickr images in a sidebar, post, or page. 
+**Stylish and compact plugin for displaying Flickr images in a sidebar, post, or page.**
+
+### Please Note: This plugin is no longer being developed or maintained. If you are a WordPress developer, I encourage you to take this plugin and make it your own.
 
 ## Description
 
-**Please Note: This plugin is no longer being developed or maintained. If you are a WordPress developer, I encourage you to take this plugin and make it your own.**
 
 The Alpine PhotoTile for Flickr is capable of retrieving photos from a particular 
 user, a group, a set, or the Flickr community. The photos can be linked to the your Flickr page, a specific URL, or to a Fancybox slideshow.
